@@ -9,7 +9,7 @@ class Person:
         print(self.fname, " ", self.lname)
 
 
-p1=Person("Rohit", "Sharma")
+p1 = Person("Rohit", "Sharma")
 p1.getFullName()
-p2=Person("Riya", "Sharma")
+p2 = Person("Riya", "Sharma")
 p2.getFullName()
